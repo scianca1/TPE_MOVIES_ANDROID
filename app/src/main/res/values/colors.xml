@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#121212</color>
+    <color name="white">#D2D1D1</color>
+    <color name="PrimaryColor">#CA0D0D</color>
+    <color name="head_Color">#D8121212</color>
+    <color name="transparentBlack">#DA121212</color>
+    <color name="error">#FA1717</color>
+    <color name="grenn">#4FF421</color>
+    <color name="grisTransparente">#66C6C5C5</color>
+</resources>

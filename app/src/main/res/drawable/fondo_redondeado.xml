@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Color de fondo del ImageButton -->
+        <solid android:color="@color/grisTransparente" />
+
+        <!-- Borde del ImageButton, opcional -->
+<!--        <stroke-->
+<!--            android:width="2dp"-->
+<!--            android:color="@color/your_border_color" />-->
+
+        <!-- Esquinas redondeadas -->
+        <corners android:radius="20dp" /> <!-- Ajusta el valor para el redondeado deseado -->
+    </shape>
